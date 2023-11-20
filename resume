@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en " class="resume">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <title>Resume - Alexander Klaude Salvador</title>
+</head>
+<body>
+    <div class="hero">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand" href="Index.html"><img src="logo.png" class="logo" alt="Logo"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item"><a class="nav-link" href="Index.html">HOME</a></li>
+                        <li class="nav-item"><a class="nav-link" href="Contact.html">Contact Me</a></li>
+                        <li class="nav-item"><a class="nav-link" href="aboutme.html">About Me</a></li>
+                        <li class="nav-item"><a class="nav-link" href="photos.html">PHOTOS</a></li>
+                        <li class="nav-item"><a class="nav-link" href="resume.html">Resume</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <div class="resume-container">
+        <header>
+            <h1>Alexander Klaude Salvador</h1>
+            <p>BSITWMA</p>
+        </header>
+
+        <section>
+            <h2>Education</h2>
+            <p>Bachelor of Science in Information Technology Specializing in Web and Mobile Application</p>
+            <p>Far Eastern University institute of Technology</p>
+        </section>
+        <section>
+          <p>Senior High School</p>
+          <p>St.Mary's Academy Of Sto.Nino</p>
+          <section>
+            <p>Junior High School</p>
+            <p>St.Mary's Academy Of Sto.Nino</p>
+        </section>
+      </section>
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>Web Design and Development</li>
+                <li>Problem Solving</li>
+                <li>Team Collaboration</li>
+            </ul>
+        </section>
+
+        <section>
+          <h2>Certification</h2>
+          <h4>Certified in Information Systems</h4>
+          <p>Awarded by Certiport</p>
+          <h4>Certified in Networking</h4>
+          <p>Awarded by Certiport</p>
+        </section>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
